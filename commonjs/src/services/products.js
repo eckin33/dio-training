@@ -3,4 +3,5 @@ const devArea = {
     production : false
 }
 
+//Jeito de exportar
 module.exports = devArea
